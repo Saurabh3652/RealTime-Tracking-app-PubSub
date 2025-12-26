@@ -46,7 +46,7 @@ realtime-tracking-app/
 ## ⚙️ Setup & Run Locally
 
 ### Clone the repository
-git clone https://github.com/your-username/realtime-tracking-app.git  ](https://github.com/Saurabh3652/RealTime-Tracking-app-PubSub.git
+git clone https://github.com/your-username/realtime-tracking-app.git 
 cd realtime-tracking-app
 
 ### Install dependencies
