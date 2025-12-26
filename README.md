@@ -48,7 +48,7 @@ bash
 git clone https://github.com/your-username/realtime-tracking-app.git
 cd realtime-tracking-app``
 
-📍 How It Works
+###📍 How It Works
 
 User allows location access
 
@@ -60,7 +60,7 @@ Server broadcasts updates to all connected clients
 
 Leaflet updates or creates markers in real time
 
-🧪 Testing Multiple Users
+##🧪 Testing Multiple Users
 
 To see multiple markers:
 
@@ -78,7 +78,7 @@ Location access is required for tracking
 
 No user location data is stored permanently
 
-🧠 Future Enhancements
+##🧠 Future Enhancements
 
 User authentication
 
@@ -92,7 +92,7 @@ Mobile-first UI
 
 Cloud deployment
 
-🤝 Contributing
+##🤝 Contributing
 
 Contributions are welcome!
 
